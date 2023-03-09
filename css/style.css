@@ -13,16 +13,17 @@ body{
 
 
 .element-right{
-	background: #8865b4;
+	background: #f6f6f6;
 	justify-content:flex-end;
 	display: flex;
 	padding-right: 20px;
 	
+	
 }
 
 .element-right a{
-	color: #fbf7f7;
-	padding-left: 5px;
+	color: #666;
+	padding-left: 10px;
 }
 
 
@@ -172,7 +173,7 @@ a{
 	width: 100%;
 	position: fixed;
 	z-index: 99;
-	padding:15px;
+	padding:0px;
 }
 .header .item-left{
 	flex:0 0 17%;
